@@ -11,4 +11,4 @@ function fizzBuzz(num){
         }
     }
 }
-fizzBuzz(10)
+fizzBuzz(15)
